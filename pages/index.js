@@ -76,6 +76,10 @@ export default function Home(props) {
       <Head>
         <title>Coffee Connoisseur</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta
+          name="description"
+          content="Allows you to search for the coffee stores near you."
+        />
       </Head>
 
       <main className={styles.main}>

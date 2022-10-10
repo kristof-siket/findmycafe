@@ -139,6 +139,7 @@ const CoffeStore = (initialProps) => {
     <div className={styles.layout}>
       <Head>
         <title>{name}</title>
+        <meta name="description" content={`${name} coffee store's details.`} />
       </Head>
 
       <div className={styles.container}>
