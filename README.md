@@ -33,3 +33,5 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # trace debug 2026-05-13T14:11:16Z
+
+<!-- smoke trigger after PTL-1516 async build-runner merge 2026-05-26T15:22:25Z -->
